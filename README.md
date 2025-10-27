@@ -270,5 +270,8 @@ if distance_left < 1000:
 if distance_right < 1000:
     filtered_distance_right = alpha * filtered_distance_right + (1 - alpha) * distance_right
 ```
+We use exponential smoothing to blend the previous filtered value with the new measurement:
+filteredₜ = α · filteredₜ₋₁ + (1 − α) · measurementₜ.
+The α parameter sets the trade-off: a higher α yields slower response but stronger noise suppression; a lower α reacts faster but filters less.
 
 To improve wall-following we are migrating to a **PID controller** fed by left/right ultrasonic distances.
