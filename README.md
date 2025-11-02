@@ -17,7 +17,8 @@ Team information:
 •	Country: Zagreb, Croatia
 
 <p align="center">
-  <img src="images/team.jpg" alt="Team" width="300"/>
+  <img src="images/team.jpg" alt="Team" width="389"/>
+  <img src="images/team2.jpg" alt="Team2" width="331"/>
 </p>
 
 
