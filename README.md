@@ -47,7 +47,7 @@ The vehicle is built using the `fischertechink STEM Coding Competition Robot Kit
 
 The videos are public and posted on YouTube.
 
-1) Open Challenge: https://youtube.com/shorts/FNWYoWpSo5U?feature=share
+1) Open Challenge: https://youtube.com/shorts/lAiTz7U1KZs?feature=share
 
 2) Obstacle Challenge: https://youtube.com/shorts/vl-P6Tf0zsA?feature=share
 
