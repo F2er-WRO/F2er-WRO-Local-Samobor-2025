@@ -10,7 +10,7 @@ Team information:
 
 •	Members: Ana Petrović, Bruna Vlatković, Patrik Vranješ
 
-•	Mentor: Ana Sović Kržić
+•	Mentor: Ana Sović Kržić, Janko Radigović
 
 •	Organization: Faculty of Electrical Engineering and Computing
 
